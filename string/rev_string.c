@@ -3,11 +3,10 @@
 int main()
 {
 	char str1[100],temp;
-	int len,l,r,i;
+	int len,r,i;
 	printf("enter a string to reverse: ");
 	scanf("%[^\n]s",str1);
 	len = strlen(str1);
-	l = 0;
 	r = len-1;
 	for(i =0; i<r;i++)
 	{
