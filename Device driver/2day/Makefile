@@ -1,4 +1,4 @@
-obj-m = demo.o
+obj-m = 1.o
 
 modules:
 	make -C /lib/modules/`uname -r`/build M=`pwd` modules
