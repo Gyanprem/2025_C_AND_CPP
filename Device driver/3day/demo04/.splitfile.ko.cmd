@@ -1,0 +1,1 @@
+savedcmd_/home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.ko /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.o /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.mod.o

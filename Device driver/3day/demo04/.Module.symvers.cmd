@@ -1,0 +1,1 @@
+savedcmd_/home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/Module.symvers -T /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.mod := printf '%s\n'   file1.o file2.o | awk '!x[$$0]++ { print("/home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/"$$0) }' > /home/gyan/Desktop/SUNBEAM/eldd/Day03/demos/demo04/splitfile.mod
